@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#HELLOW 
 $LOAD_PATH.unshift File.expand_path('../lib', __FILE__)
 
 require 'rubygems'
